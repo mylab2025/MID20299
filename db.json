@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "MP1584EN Buck Converter",
+        "PN": "MP1584EN",
+        "MF": "-"
+      },
+      "MID": "MID20299",
+      "MD": "This DC-DC step down module is based on the MP1584EN chip, which is capable of \r\ndriving a 3 A load and converts input voltages between 4.5 V to 28 V into a lower voltage \r\nbetween 0.8 V to 20 V. This is suitable for applications which need a highly efficient \r\npower converter.",
+      "MT": "Design/Module",
+      "MQNT": 2,
+      "MCost": 45.0,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20299%2Fmain%2FMP1584.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20299%2Fmain%2FMP1584EN.pdf",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20299/main/WhatsApp Image 2025-06-30 at 6.34.19 PM (2).jpeg",
+        "https://raw.githubusercontent.com/mylab2025/MID20299/main/WhatsApp Image 2025-06-30 at 6.34.46 PM.jpeg"
+      ]
+    }
+  ]
+}
